@@ -5,7 +5,7 @@ function init(){
        var x1 = document.getElementById("entryinput").value;
        var x2 = document.getElementById("textoutput");
     
-       alert("Alma Hernandez: "+ x1);
+       alert("Lucien Talavera: "+ x1);
        x2.innerHTML = x1;
        
      }
