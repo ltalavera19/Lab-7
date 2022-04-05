@@ -13,6 +13,5 @@ var x3 = document.getElementById('entrybutton');
 x3.addEventListener("click", alertFunction);
 
 
-
 }
 window.addEventListener('load', init);
